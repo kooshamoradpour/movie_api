@@ -31,3 +31,36 @@ Timestamp: Sun Mar 26 2023 23:39:52 GMT-0400 (Eastern Daylight Time)
 URL: /favicon.ico
 Timestamp: Sun Mar 26 2023 23:39:52 GMT-0400 (Eastern Daylight Time)
 
+URL: /
+Timestamp: Wed Apr 19 2023 16:29:38 GMT-0400 (Eastern Daylight Time)
+
+URL: /favicon.ico
+Timestamp: Wed Apr 19 2023 16:29:39 GMT-0400 (Eastern Daylight Time)
+
+URL: /
+Timestamp: Wed Apr 19 2023 16:31:42 GMT-0400 (Eastern Daylight Time)
+
+URL: /favicon.ico
+Timestamp: Wed Apr 19 2023 16:31:43 GMT-0400 (Eastern Daylight Time)
+
+URL: /
+Timestamp: Wed Apr 19 2023 16:31:43 GMT-0400 (Eastern Daylight Time)
+
+URL: /favicon.ico
+Timestamp: Wed Apr 19 2023 16:31:43 GMT-0400 (Eastern Daylight Time)
+
+URL: /
+Timestamp: Wed Apr 19 2023 16:32:00 GMT-0400 (Eastern Daylight Time)
+
+URL: /css/style.css
+Timestamp: Wed Apr 19 2023 16:32:00 GMT-0400 (Eastern Daylight Time)
+
+URL: /favicon.ico
+Timestamp: Wed Apr 19 2023 16:32:00 GMT-0400 (Eastern Daylight Time)
+
+URL: /
+Timestamp: Wed Apr 19 2023 16:36:25 GMT-0400 (Eastern Daylight Time)
+
+URL: /favicon.ico
+Timestamp: Wed Apr 19 2023 16:36:25 GMT-0400 (Eastern Daylight Time)
+
